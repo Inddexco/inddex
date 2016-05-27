@@ -1,0 +1,22 @@
+{
+  "name": "ProyectoInddex",
+  "homepage": "www.inddex.co",
+  "authors": [
+    "inddex <inddexco@gmail.com>"
+  ],
+  "description": "bower",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ]
+}
